@@ -102,9 +102,9 @@ const AboutSection: React.FC = () => {
           className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center"
         >
           <motion.div variants={itemVariants} className="relative">
-            <div className="relative overflow-hidden rounded-lg shadow-xl">
+            <div className="relative overflow-hidden rounded-lg ">
             <img
-              src="https://res.cloudinary.com/dji3kx0ts/image/upload/v1745520820/WhatsApp_Image_2025-04-25_at_00.21.02_hvhqud.jpg"
+              src="https://res.cloudinary.com/dji3kx0ts/image/upload/v1745521462/WhatsApp_Image_2025-04-25_at_00.33.12_q1rwry.jpg"
               alt=""
               className="w-full h-auto object-cover transition-transform duration-700 hover:scale-200"
               />
