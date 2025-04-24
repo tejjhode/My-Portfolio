@@ -103,10 +103,10 @@ const AboutSection: React.FC = () => {
         >
           <motion.div variants={itemVariants} className="relative">
             <div className="relative overflow-hidden rounded-lg shadow-xl">
-              <img
-                src="https://media.licdn.com/dms/image/v2/D4D03AQHUeRTmuOkU-A/profile-displayphoto-shrink_400_400/B4DZYowRDsG4Ag-/0/1744440464660?e=1750896000&v=beta&t=6qD216GuzRRRX4AjxjMiRmIdEKTe0BeOiPju_NjH9jc"
-                alt=""
-                className="w-full h-auto object-cover transition-transform duration-700 hover:scale-105"
+            <img
+              src="https://res.cloudinary.com/dji3kx0ts/image/upload/v1745520820/WhatsApp_Image_2025-04-25_at_00.21.02_hvhqud.jpg"
+              alt=""
+              className="w-full h-auto object-cover transition-transform duration-700 hover:scale-200"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
             </div>
