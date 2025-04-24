@@ -106,7 +106,7 @@ const AboutSection: React.FC = () => {
             <img
               src="https://res.cloudinary.com/dji3kx0ts/image/upload/v1745521462/WhatsApp_Image_2025-04-25_at_00.33.12_q1rwry.jpg"
               alt=""
-              className="w-full h-auto object-cover transition-transform duration-700 hover:scale-200"
+              className="w-full h-auto object-cover transition-transform duration-700 hover:scale-150"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 hover:opacity-100 transition-opacity duration-300"></div>
             </div>
